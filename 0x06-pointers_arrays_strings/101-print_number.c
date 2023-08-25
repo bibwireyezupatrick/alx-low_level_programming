@@ -1,4 +1,5 @@
 #include "main.h"
+#include "_putchar.h"
 
 /**
  * print_number - print numbers chars
