@@ -1,1 +1,3 @@
-More on arrays, pointers and strings at ALX
+
+More on arrays, strings and pointers at ALX
+
