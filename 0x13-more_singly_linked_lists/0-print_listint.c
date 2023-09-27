@@ -3,7 +3,7 @@
 /**
  * print_listint - prints all elements of the list
  * @h: a linked list
- *node: count-number of nodes
+ * node_count: number of nodes
  * Return: number of nodes
  */
 
